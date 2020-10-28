@@ -4,10 +4,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on everything.
 - 🌱 I’m currently learning how to parent.
-- 👯 I’m looking to collaborate on CAN bus hacking
+- 👯 I’m looking to collaborate on CAN bus hacking, CAN data analytics,
 - 💬 Ask me about anything.
-- 📫 How to reach me: alt.2600.*
+- 📫 How to reach me: alt.*
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: No one knows what they're doing, the points are all made up.
