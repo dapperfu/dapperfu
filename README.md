@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on everything.
 - 🌱 I’m currently learning how to parent.
-- 👯 I’m looking to collaborate on CAN bus hacking, CAN data analytics,
+- 👯 I’m looking to collaborate on CAN bus hacking, CAN data analytics, reinventing STEM education Pre-K forward, 
 - 💬 Ask me about anything.
 - 📫 How to reach me: alt.*
 - 😄 Pronouns: They/Them
